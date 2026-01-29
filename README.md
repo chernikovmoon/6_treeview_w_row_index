@@ -5,4 +5,4 @@ https://doc.qt.io/qtforpython-6/examples/example_widgets_tutorials_modelview.htm
 The main idea is making use of unique indexes for each node and leaf in a tree model,
 exposed as a row with columns containing items of class QStandardItem.
 This is an example of using a unique index for each row in the QStandardItemModel,
-which belongs to each item of class MyStandardItem (for each column) of the row. 
+which at the same time belongs to each item of class MyStandardItem (for each column) of the row. 
